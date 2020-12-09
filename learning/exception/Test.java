@@ -21,6 +21,8 @@ public class Test {
 			// a.f();
 			// System.out.println("Exception test!");
 			// throw new Exception("Exception from exception");
+
+			//hello
 		} catch (Exception e) {
 			e.printStackTrace(System.out);
 		} finally {
