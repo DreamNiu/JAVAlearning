@@ -23,6 +23,7 @@ public class Test {
 			// throw new Exception("Exception from exception");
 
 			//hello
+			//world!
 		} catch (Exception e) {
 			e.printStackTrace(System.out);
 		} finally {
